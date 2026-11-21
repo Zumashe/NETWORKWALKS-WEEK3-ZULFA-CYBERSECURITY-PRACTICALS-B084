@@ -269,6 +269,8 @@ The evidence is organized according to the two completed modules.
 The screenshots for this module show:
 
 - The Johnny GUI application.
+![JOHYN](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/JOHNY.png?raw=true)
+  
 - The John the Ripper executable configuration.
 - Successful detection of John the Ripper by Johnny.
 - The PDF 1 password-cracking exercise.
@@ -277,8 +279,9 @@ The screenshots for this module show:
 ### 7.2 W3-PM2: Password Cracking with NW Tools
 
 The screenshots for this module show:
-
 - The Networkwalks Tools interface used during the practical.
+
+
 - The activities performed during the assigned exercise.
 - The successful Flag 1 capture.
 - The congratulatory message displayed by Networkwalks confirming the captured flag.
