@@ -272,9 +272,15 @@ The screenshots for this module show:
 ![JOHYN](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/JOHNY.png?raw=true)
   
 - The John the Ripper executable configuration.
+  ![configuration](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Johny2.png?raw=true)
+  
 - Successful detection of John the Ripper by Johnny.
+![]()
 - The PDF 1 password-cracking exercise.
+![]()
+
 - The successful PDF 1 password-recovery result.
+  ![]()
 
 ### 7.2 W3-PM2: Password Cracking with NW Tools
 
