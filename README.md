@@ -291,7 +291,7 @@ The screenshots for this module show:
 - 
 !()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213437.png?raw=true]
 !()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213602.png?raw=true]
-!()[]
+!()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213749.png?raw=true]
 !()[]
 
 These screenshots provide evidence of the practical work I completed in both modules.
