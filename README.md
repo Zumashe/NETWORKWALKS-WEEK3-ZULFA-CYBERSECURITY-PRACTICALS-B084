@@ -275,9 +275,8 @@ The screenshots for this module show:
   ![configuration](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Johny2.png?raw=true)
   
 - Successful detection of John the Ripper by Johnny.
-![]()
 - The PDF 1 password-cracking exercise.
-![]()
+![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213012.png?raw=true)
 
 - The successful PDF 1 password-recovery result.
   ![]()
