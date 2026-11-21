@@ -279,17 +279,20 @@ The screenshots for this module show:
 ![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213012.png?raw=true)
 
 - The successful PDF 1 password-recovery result.
-  ![]()
+  ![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-19%20190358.png?raw=true)
 
 ### 7.2 W3-PM2: Password Cracking with NW Tools
 
 The screenshots for this module show:
 - The Networkwalks Tools interface used during the practical.
-
-
 - The activities performed during the assigned exercise.
 - The successful Flag 1 capture.
 - The congratulatory message displayed by Networkwalks confirming the captured flag.
+- 
+!()[]
+!()[]
+!()[]
+!()[]
 
 These screenshots provide evidence of the practical work I completed in both modules.
 
