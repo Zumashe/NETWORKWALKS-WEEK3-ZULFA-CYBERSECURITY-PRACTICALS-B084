@@ -266,29 +266,19 @@ The evidence is organized according to the two completed modules.
 
 ### 7.1 W3-PM1: Password Cracking with JTR
 
-The screenshots for this module show:
 
-- The Johnny GUI application.
 ![JOHYN](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/JOHNY.png?raw=true)
   
-- The John the Ripper executable configuration.
+
   ![configuration](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Johny2.png?raw=true)
   
-- Successful detection of John the Ripper by Johnny.
-- The PDF 1 password-cracking exercise.
+![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20212718.png?raw=true)
 ![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213012.png?raw=true)
 
-- The successful PDF 1 password-recovery result.
   ![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-19%20190358.png?raw=true)
 
 ### 7.2 W3-PM2: Password Cracking with NW Tools
 
-The screenshots for this module show:
-- The Networkwalks Tools interface used during the practical.
-- The activities performed during the assigned exercise.
-- The successful Flag 1 capture.
-- The congratulatory message displayed by Networkwalks confirming the captured flag.
-- 
 !()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213437.png?raw=true]
 !()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213602.png?raw=true]
 !()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213749.png?raw=true]
