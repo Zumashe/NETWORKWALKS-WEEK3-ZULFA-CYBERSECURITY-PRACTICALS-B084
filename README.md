@@ -290,7 +290,7 @@ The screenshots for this module show:
 - The congratulatory message displayed by Networkwalks confirming the captured flag.
 - 
 !()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213437.png?raw=true]
-!()[]
+!()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213602.png?raw=true]
 !()[]
 !()[]
 
