@@ -267,22 +267,30 @@ The evidence is organized according to the two completed modules.
 ### 7.1 W3-PM1: Password Cracking with JTR
 
 
-![JOHYN](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/JOHNY.png?raw=true)
-  
 
-  ![configuration](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Johny2.png?raw=true)
-  
-![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20212718.png?raw=true)
-![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213012.png?raw=true)
+### 7.1 W3-PM1: Password Cracking with John the Ripper
 
-  ![](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-19%20190358.png?raw=true)
+#### Johnny Application
+![Johnny Application](JOHNY.png)
+
+#### Johnny Configuration
+![Johnny Configuration](Johny2.png)
+
+#### Practical Screenshot 1
+![Practical Screenshot 1](Screenshot%202026-11-21%20212718.png)
+
+#### Practical Screenshot 2
+![Practical Screenshot 2](Screenshot%202026-11-21%20213012.png)
+
+#### Additional Practical Evidence
+![Additional Evidence](Screenshot%202026-11-19%20190358.png)
 
 ### 7.2 W3-PM2: Password Cracking with NW Tools
 
-!()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213437.png?raw=true]
-!()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213602.png?raw=true]
-!()[https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213749.png?raw=true]
-!()[]
+![Networkwalks Tools](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213437.png?raw=true)
+![Flag 1 Capture](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213602.png?raw=true)
+![Successful Completion](https://github.com/Zumashe/NETWORKWALKS-WEEK3-ZULFA-CYBERSECURITY-PRACTICALS-B084/blob/main/Screenshot%202026-11-21%20213749.png?raw=true)
+
 
 These screenshots provide evidence of the practical work I completed in both modules.
 
